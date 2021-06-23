@@ -1,5 +1,18 @@
 # cai
-## cord: real-time options trade generation
+## Cord - AI Advanced Option Trading
+Cord is an advanced AI system for real-time generation of option baskets.  It is intended for hedge funds and advanced options traders however it is easily configured to trade restricted scenarios such as covered-call only and stock only.
+
+This repository contains documentation, portfolio definition files (pdef) and executable clients for OSX, Windows and Linux.  These clients read your porfolio definition files and generate tradable baskets of stocks and options that are optimized to reduce trade risk and maximize your returns.  
+
+	cord --html model AAPL
+
+This command reads the AAPL.pdef trade definition and gets data snapshot of the equities and options that relevant and generates a trade basket.  In some cases this basket directly be imported into your brokerage interface.  For example with Interactive Brokers you would specify the following
+
+
+	cord --html --ib U12345678 model AAPL
+
+In this case you specified you account number to be included locally (this is not transmitted to Cord servers for security reasons) in the Interactive Brokers basket specification.
+
 
 ## Installation
 
@@ -8,8 +21,6 @@
 ### Linux
 
 
-
-## Cai - Cordillera AI
 
 TESTING THIS IS JUST A TEST
 

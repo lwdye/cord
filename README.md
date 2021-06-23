@@ -1,4 +1,13 @@
-# CAI Cord A real-time AI options trade generation system
+# cai
+## cord: real-time options trade generation
+
+## Installation
+
+### OSX
+### Windows
+### Linux
+
+
 
 ## Cai - Cordillera AI
 

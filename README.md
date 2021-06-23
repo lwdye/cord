@@ -13,14 +13,20 @@ This command reads the AAPL.pdef trade definition and gets data snapshot of the 
 
 In this case you specified you account number to be included locally (this is not transmitted to Cord servers for security reasons) in the Interactive Brokers basket specification.
 
-
 ## Installation
-
 ### OSX
 ### Windows
 ### Linux
 
+## BETA - Documentation and binary executables are not for general use
+Please contact les@cordillera.ai to request beta access. 
 
+### cai
+### cordillera ai 
+#### Advanced AI Research
+#### USA
+
+<!-- 
 
 TESTING THIS IS JUST A TEST
 
@@ -75,4 +81,4 @@ Let people know how they can dive into the project, include important links to t
 
 ## License
 
-A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.)
+A short snippet describing the license ([MIT](http://opensource.org/licenses/mit-license.php), [Apache](http://opensource.org/licenses/Apache-2.0), etc.) -->

@@ -21,10 +21,7 @@ In this case you specified you account number to be included locally (this is no
 ## BETA - Documentation and binary executables are not for general use
 Please contact les@cordillera.ai to request beta access. 
 
-### cai
-### cordillera ai 
-#### Advanced AI Research
-#### USA
+#### CAI - Cordillera AI, USA
 
 <!-- 
 
